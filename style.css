@@ -1,0 +1,237 @@
+body{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    background-image: url(images/Rectangle1.png);
+    background-repeat: no-repeat;
+}
+.div-1{
+    padding: 80px;
+}
+.div-1 h1{
+    color: aliceblue;
+    font-size: 45px;
+}
+.div-1 p{
+    color: aliceblue;
+    font-size: 22px;
+}
+.comonbaton {
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    background-color: tomato;
+    color: black;
+    border-radius: 15px;
+}
+.comonbaton:hover{
+    background-color: aliceblue;
+}
+#sec-2{
+    display: flex;
+    padding-top: 300px;
+    padding-left: 100px;
+}
+.div-2{
+    padding-left: 40px;
+    padding: 0 20px 0 ;
+   
+}
+.div-2 h1{
+    font-size: 30px;
+    padding-top: 30px;
+}
+.div-2 p{
+    font-size: 20px;
+    padding-top: 30px;
+}
+.for-pad{
+   
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    border-radius: 15px;
+    color: black;
+    background-color: tomato;
+}
+.for-pad:hover{
+    background-color: palegreen;
+}
+.div-3{
+    padding-left: 160px;
+}
+#sec-3{
+    display: flex;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.div-4{
+    
+}
+.div-5{
+    padding: 0 0 0 180px;
+   
+    
+}
+.div-5 h1{
+    font-size: 30px;
+    padding-top: 30px;
+}
+.div-5 p{
+    font-size: 20px;
+    padding-top: 30px;
+}
+.div-6{
+    padding-top: 60px;
+    text-align: center;
+    
+}
+.div-6 h1{
+    font-size: 40px;
+}
+.div-6 p{
+    font-size: 20px;
+}
+.div-7{
+    display: flex;
+    padding-top: 50px;
+   padding-left: 240px;
+}
+.itam-1{
+    background-color:palegreen ;
+    margin: 20px;
+    width: 280px;
+    height: 250px;
+    padding: 20px 0 0 80px;
+    
+}
+
+.itam-2{
+    background-color:palegreen  ;
+    width: 280px;
+    padding-right: 30px;
+    padding: 20px 0px 0 80px;
+    height: 250px;
+    margin: 20px;
+}
+.div-8{
+    display: flex;
+     padding-top: 10px;
+   padding-left: 240px;
+}
+.itam-3{
+    background-color: palegreen;
+    padding: 20px 0 0 80px;
+    margin: 20px;
+    width: 280px;
+    height: 250px;
+}
+.itam-4{
+    background-color: palegreen ;
+    width: 280px;
+    padding: 20px 0 0 80px;
+    height: 250px;
+    margin: 20px;
+    
+}
+.div-9{
+    padding-top: 40px;
+    padding-left: 80px;
+}
+#img-2{
+    padding-left: 45px;
+}
+#img-3{
+    padding-left: 45px;
+}
+.div-10{
+    padding-top: 80px;
+    text-align: center;
+}
+.div-10 h1{
+    font-size: 35px;
+}
+.div-10 p{
+    font-size: 20px;
+   
+}
+
+#sec-4{
+    padding-top: 40px;
+    display: flex;
+    padding-left:75px;
+    padding-bottom: 20px;
+   
+   
+}
+.itam-5{
+  
+    box-shadow: 10px 5px 10px 2px gray;
+}
+.itam-5 h3{
+    padding-left: 25px;
+}
+.itam-5 p{
+    padding-left: 25px;
+}
+.itam-5 a{
+    padding-left: 25px;
+    color: tomato;
+    font-size: 20px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+.itam-6{
+    box-shadow: 10px 5px 10px 2px gray;
+    padding-left: 40px;
+}
+.itam-6 h3{
+    padding-left: 25px; 
+}
+.itam-6 p{
+    padding-left: 25px;
+}
+.itam-6 a{
+    padding-left: 25px;
+    color: tomato;
+    font-size: 20px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+.itam-7{
+    box-shadow: 10px 5px 10px 2px gray;
+      padding-left: 40px;
+      padding-bottom: 40px;
+}
+.itam-7 h3{
+    padding-left: 25px; 
+}
+.itam-7 p{
+    padding-left: 25px;
+}
+.itam-7 a{
+    padding-left: 25px;
+    color: tomato;
+    font-size: 20px;
+    padding-bottom: 10px;
+    text-decoration: none;
+} 
+footer{
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+#foot{
+    
+    background-color: black;
+   padding-top: 5%;
+   padding-bottom: 20px;
+
+}
+#foot{
+   text-align: center;
+   padding-bottom: 20px;
+}
+#foot h1{
+    color: brown;
+}
+#foot p{
+    color: aliceblue;
+}
